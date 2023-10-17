@@ -1,4 +1,4 @@
-# zorenstockpricetimeseriesanalysis
+# Predictions of #ZOREN.IS index price with machine learning and Python
 
 
 
